@@ -58,8 +58,9 @@ python flask_api.py
 
 ## **Project Architecture** 🏗️
 The backend architecture diagram is available locally. It provides insights into how Influencer AI processes and delivers content. For further details, refer to the provided architecture diagram.
+![backend-api-flowdiaggram](https://github.com/user-attachments/assets/834aabb8-c08f-4e46-ae76-4c7f86192f1f)
 
-![backend-api-flowdiaggram](https://github.com/user-attachments/assets/9a0290fb-6df7-479f-bbcf-900565f7b1dd)
+
 
 ---
 
@@ -67,7 +68,11 @@ The backend architecture diagram is available locally. It provides insights into
 
 A demo video showcasing the rendering and functionality of Influencer AI is available. It demonstrates how users can create stunning advertisements with ease
 
-https://github.com/user-attachments/assets/15f58b04-1e28-406a-904d-cdc830ea0095
+
+
+https://github.com/user-attachments/assets/cd18134e-6794-4f38-8a00-3270cae1eabb
+
+
 
 .
 
